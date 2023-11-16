@@ -114,7 +114,7 @@ elif input_user == '3': #OPSI 2
      .-.
    .'   `.          {Wh}----------------------------------
    :g g   :         {Wh}| {Gr}GHOST - TRACKER - PHONE NUMBER {Wh}|
-   : o    `.        {Wh}|        {Gr}@CODE BY HUNXBYTS       {Wh}|
+   : o    `.        {Wh}|        {Gr}@CODE BY FQXPLOIT    {Wh}|
   :         ``.     {Wh}----------------------------------
  :             `.
 :  :         .   `.
